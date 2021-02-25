@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql",
+            "database": "sampldb21",
+            "username": "sabmpleuser21",
+            "group": "mysql",
+            "connectionTimeout": 60,
+            "password": "samplepass21"
+        }
+    ]
+}
